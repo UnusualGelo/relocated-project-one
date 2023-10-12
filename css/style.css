@@ -1,0 +1,33 @@
+h1{
+    display:block;
+    font-family: monospace;
+   text-align:center;
+   color:whitesmoke;
+}
+
+body{
+    background-image: url("../media/images/home.jpeg");
+    background-size: cover;
+    background-repeat: repeat;
+    color:rgb(83, 248, 83);
+}
+
+table, th, tr,td{
+    border: 2px solid;
+    margin-right: auto;
+    margin-left:auto;  
+ 
+}
+.clickme{
+    background-color: black;
+    color: rgb(83, 248, 83);
+    text-align: center;
+    padding: 15px 32px;
+    font-size: 20px;
+}
+p{
+    text-align: center;
+}
+.history{
+    color: rgb(18, 88, 18);
+}

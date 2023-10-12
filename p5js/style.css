@@ -1,0 +1,22 @@
+body{
+  background-image: url("../media/images/cathead2.png");
+  background-size: 13%;
+  background-repeat: repeat;
+  color:white;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+  margin-right:auto;
+  margin-left: auto;
+  margin-top: 5%;
+}
+.header{
+  color: rgb(242, 110, 8);
+  text-align: center;
+
+}
